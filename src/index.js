@@ -5,7 +5,6 @@ import App from './App';
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 require('popper.js');
-require('bootstrap');
 
 ReactDOM.render(
   <React.StrictMode>
